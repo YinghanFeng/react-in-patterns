@@ -23,7 +23,7 @@
     "babel-preset-stage-3": "6.24.1",
     "babelify": "7.3.0",
     "browserify": "13.0.1",
-    "eslint": "~1.10.3",
+    "eslint": "~9.0.0",
     "eslint-plugin-react": "3.16.1",
     "gulp": "3.9.1",
     "gulp-duration": "0.0.0",
